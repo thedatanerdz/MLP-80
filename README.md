@@ -1,17 +1,6 @@
 # dvc-NLP-simple-usecase
 DVC NLP project
 
-## Reference repository:
-* [official reference repo](https://github.com/iterative/example-get-started)
-
-* [DVC STUDIO](https://studio.iterative.ai/)
-
-* [MY View](https://studio.iterative.ai/user/entbappy/views/DVC_NLP_DEMO-a1uxaxhzil)
-
-* [Bag of Words- Krish Naik](https://youtu.be/D2V1okCEsiE)
-
-* [TF-IDF- Krish Naik](https://youtu.be/D2V1okCEsiE)
-
 
 ## STEPS -
 
